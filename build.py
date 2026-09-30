@@ -6,8 +6,8 @@ index.html files. The pages are plain static HTML served by GitHub Pages.
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-UPDATED = "21 September 2026"
-UPDATED_TR = "21 Eylül 2026"
+UPDATED = "30 September 2026"
+UPDATED_TR = "30 Eylül 2026"
 EMAIL = "info.live2a100@gmail.com"
 
 PAGES = [
